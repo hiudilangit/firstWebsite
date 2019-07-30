@@ -1,6 +1,9 @@
+#content {
+  margin: auto;
+}
+
 h1 {
   font-family: monospace;
-  align-content: center;
 }
 
 h2 {
@@ -13,8 +16,10 @@ p {
 
 #p-left {
   float: left;
+  margin: 5px;
 }
 
 #p-right {
   float: right;
+  margin: 5px;
 }
