@@ -1,4 +1,4 @@
-body {
+.body {
   width: auto;
 }
 
@@ -6,12 +6,12 @@ body {
   margin: auto;
 }
 
-h1 {
+#siteTitle {
   font-family: monospace;
   background: linear-gradient(90deg, #ccffff, #ffcccc);
 }
 
-h2 {
+#secondHeader {
   font-size: 8px;
 }
 
