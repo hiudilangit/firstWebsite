@@ -1,10 +1,10 @@
-#headerOne h1 {
+header h1 {
   background: linear-gradient(90deg, #ccffff, #ffcccc);
   text-align: center;
   font-family: monospace;
 }
 
-#headerTwo h2 {
+header h2 {
   font-size: 20px;
   text-align: center;
   background-color: yellow;
@@ -24,7 +24,7 @@ body {
 }
 
 #content {
-  
+
 }
 
 .paraLeft {
