@@ -1,3 +1,41 @@
-#headerTwo {
-  font-size: 18px;
+#headerOne h1 {
+  background: linear-gradient(90deg, #ccffff, #ffcccc);
+  text-align: center;
+  font-family: monospace;
+}
+
+#headerTwo h2 {
+  font-size: 20px;
+  text-align: center;
+  background-color: yellow;
+}
+
+form {
+  text-align: center;
+}
+form input {
+  width: 500px;
+  margin-top: 25px;
+}
+
+body {
+  width: 1000px;
+  margin: auto;
+}
+
+#content {
+  
+}
+
+.paraLeft {
+  float: left;
+  width: 250px;
+  margin: 25px;
+  background-color: orange;
+}
+
+.paraRight {
+  float: right;
+  width: 250px;
+  margin: 25px;
 }
